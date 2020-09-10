@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/brian/.config/conky/lux-hud/startall.sh
+Name=Conky
+GenericName=ConkyStartup
+Comment=Start conky on login
+Terminal=false
+#X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=1
